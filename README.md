@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=circuit&color=0e75b6&height=220&section=header&text=GNSOLUÇÕES%20TECNOLOGIA&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=220&section=header&text=GNSOLUÇÕES%20TECNOLOGIA&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
-  <p>🚀 <b>TI Especializada | Analista de Suporte V | Full Stack Developer</b></p>
+  <p>🚀 <b>Especialista em TI | Analista de Suporte V | Full Stack Developer</b></p>
   
-  <p><i>Unindo a robustez da infraestrutura com a agilidade do desenvolvimento sob medida.</i></p>
+  <p><i>Unindo a robustez da infraestrutura com a agilidade do desenvolvimento sob medida. Laguna - SC.</i></p>
 
   <a href="https://gnsolucoesinfo.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.instagram.com/gnsolucoes.info" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -12,13 +12,33 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 💻 Compre Nossos Projetos & Soluções
 
-Sou um profissional apaixonado por tecnologia, com vasta experiência em infraestrutura de TI e desenvolvimento de sistemas. Minha atuação foca em entregar soluções escaláveis e eficientes, integrando software e hardware, especialmente no modelo SaaS.
+Acesse nossa loja oficial para conhecer detalhes, ver demonstrações e adquirir nossas soluções prontas ou solicitar um orçamento personalizado.
+
+<div align="center">
+  <a href="https://gnsolucoesinfo.com/nossos-projetos" target="_blank">
+    <img src="https://img.shields.io/badge/CONHEÇA_NOSSOS_PROJETOS-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Conheça na GN Soluções"/>
+  </a>
+</div>
+
+* **GNVision:** Monitoramento inteligente e segurança robusta para empresas.
+* **MegaWeb:** Plataforma SaaS e-commerce completa para gestão de vendas online.
+* **Desenvolvimento sob Medida:** Sistemas desktop (Delphi) e web (PHP/Laravel) personalizados.
 
 ---
 
-## 🛠️ Tech Stack Completa (Com Ícones Corrigidos)
+## 👨‍💻 Sobre Mim & Áreas de Atuação
+
+Sou um profissional apaixonado por tecnologia, com vasta experiência em infraestrutura de TI e desenvolvimento de sistemas. Minha atuação foca em entregar soluções escaláveis e eficientes, integrando software e hardware, especialmente nos seguintes modelos:
+
+* **SaaS (Software as a Service):** Desenvolvimento e gestão de plataformas escaláveis.
+* **E-commerce & Presença Digital:** Criação de lojas virtuais e soluções de venda online.
+* **Consultoria em Infraestrutura:** Soluções em redes de alto desempenho e servidores cloud/on-premise.
+
+---
+
+## 🛠️ Tech Stack Completa (Ícones 100% Corrigidos)
 
 Aqui estão as tecnologias que domino, organizadas por categoria. Eu garanti que todos os ícones carreguem corretamente:
 
@@ -32,32 +52,15 @@ Aqui estão as tecnologias que domino, organizadas por categoria. Eu garanti que
 
 ---
 
-## 📊 Estatísticas do GitHub (Ao Vivo)
+## ⚙️ Metodologias & Ferramentas de Gestão
 
-Esta seção exibe sua atividade real no GitHub, carregada automaticamente.
+Adotei práticas modernas para garantir a qualidade e a pontualidade na entrega dos projetos:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnsolucoesinfo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnsolucoesinfo&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
-## 💻 Compre Nossos Projetos & Soluções
-
-Interessado em nossas soluções SaaS ou em um desenvolvimento customizado? Acesse nosso site para conhecer os detalhes e realizar sua compra.
-
-<div align="center">
-  <a href="https://gnsolucoesinfo.com/produtos-e-servicos/" target="_blank">
-    <img src="https://img.shields.io/badge/Compre_Nossos_Projetos-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Compre na GN Soluções"/>
-  </a>
-</div>
-
-* **GNVision:** Monitoramento inteligente e segurança robusta para empresas.
-* **MegaWeb:** Plataforma SaaS e-commerce completa para gestão de vendas online.
-* **Desenvolvimento sob Medida:** Sistemas desktop (Delphi) e web (PHP/Laravel) personalizados.
-* **Consultoria em Infra:** Soluções em redes (Mikrotik/Linux/Windows Server) e servidores cloud.
+| Categoria | Ferramentas/Metodologias (Ícones) |
+| :--- | :--- |
+| **Controle de Versão** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+| **Gestão de Projetos** | <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Agile_Methodologies-000?style=for-the-badge&logo=workflowy&logoColor=white"/> |
+| **Qualidade de Código** | <img src="https://img.shields.io/badge/Clean_Code-000?style=for-the-badge&logo=clean-code&logoColor=white"/> <img src="https://img.shields.io/badge/TDD-339933?style=for-the-badge&logo=dependabot&logoColor=white"/> |
 
 ---
 
@@ -67,7 +70,7 @@ Interessado em nossas soluções SaaS ou em um desenvolvimento customizado? Aces
     <img src="https://img.shields.io/badge/GN_Soluções_Tecnologia-0E75B6?style=flat&logo=google-chrome&logoColor=white" alt="GN Soluções Tecnologia"/>
   </a>
   <br>
-  <sub>Laguna - SC | Soluções em Tecnologia de Ponta</sub>
+  <sub>Soluções em Tecnologia de Ponta | Desde Laguna - SC</sub>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=gnsolucoesinfo&label=Acessos%20ao%20Perfil&color=0e75b6&style=flat" alt="gnsolucoesinfo" />
+  <img src="https://komarev.com/ghpvc/?username=gnsolucoesinfo&label=Acessos&color=0e75b6&style=flat" alt="gnsolucoesinfo" />
 </div>
