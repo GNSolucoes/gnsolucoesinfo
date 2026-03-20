@@ -1,66 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=circuit&color=0e75b6&height=250&section=header&text=GNSOLUÇÕES%20TECNOLOGIA&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=0e75b6&height=300&section=header&text=GNSOLUÇÕES%20TECNOLOGIA&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  <p>🚀 <b>Analista de Suporte V | Especialista em Infraestrutura | Full Stack Developer</b></p>
+  <br>
   
-  <p><i>Soluções de TI Ponta a Ponta: Do Hardware ao Software de Alta Performance.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=gnsolucoesinfo&label=PERFIL%20VIEWS&color=0e75b6&style=for-the-badge" />
+  
+  <br><br>
 
-  <a href="https://wa.me/5548996046486" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://gnsolucoesinfo.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.instagram.com/gnsolucoes.info" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://gnsolucoesinfo.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE_OFICIAL-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://wa.me/5548996046486" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP_BUSINESS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilhermenunesdev" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gnsolucoes.info" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
 
-## 💼 Portfólio & Vendas (GN Soluções)
+## 👨‍💼 Perfil Profissional
+**Guilherme Nunes | CEO GN Soluções Tecnologia**
+> *Analista de Suporte Nível V & Desenvolvedor Full Stack com +10 anos de experiência.*
+> Especialista em transformar infraestruturas complexas em ambientes de alta disponibilidade e desenvolver ecossistemas SaaS escaláveis.
 
-Confira nossos sistemas prontos para escalar sua operação:
+---
 
-* 🌐 **[MegaWeb SaaS](https://gnsolucoesinfo.com/nossos-projetos):** E-commerce completo e escalável.
-* 🛡️ **[GNVision](https://gnsolucoesinfo.com/nossos-projetos):** Inteligência em monitoramento e segurança.
-* 📊 **[Sistemas ERP/Desktop](https://gnsolucoesinfo.com/nossos-projetos):** Soluções robustas em Delphi para gestão.
+## 🛠️ Stack de Desenvolvimento (Full Stack)
+Domínio completo do ciclo de vida do software, do Desktop ao Mobile.
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=delphi,php,laravel,nodejs,js,html,css,android,flutter,react,tailwind,bootstrap&theme=dark" />
+</div>
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend & Desktop** | `Delphi (VCL/FMX)` `PHP 8.x` `Laravel Framework` `Node.js` |
+| **Frontend & Mobile** | `Flutter` `Android Native` `JavaScript (ES6+)` `HTML5/CSS3` |
+| **Arquitetura** | `SaaS (Software as a Service)` `REST APIs` `Microservices` |
+
+---
+
+## 🗄️ Ecossistema de Dados (Databases)
+Experiência avançada em modelagem, otimização e tunning de bancos de dados relacionais.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" />
+  <img src="https://img.shields.io/badge/Firebird-FF7A00?style=for-the-badge&logo=firebird&logoColor=white" />
+</div>
+
+---
+
+## 🌐 Infraestrutura, Redes & Sistemas (Especialista Nível V)
+Gerenciamento de ambientes críticos e segurança da informação.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,nixos,docker,cloudflare,aws,nginx&theme=dark" />
+</div>
+
+* **Networking:** `Mikrotik (Avançado)` `Ubiquiti UniFi` `VLANs` `VPN (Site-to-Site)` `Firewall PFSense`.
+* **Servidores:** `Windows Server (AD/GPO/DNS)` `Linux Server (Debian/Ubuntu/CentOS)`.
+* **Hardware & Suporte:** `Manutenção de Servidores` `Redes Estruturadas` `Backup Nível Empresarial`.
+
+---
+
+## 📦 Nossos Projetos (Portfólio GN Soluções)
+Sistemas prontos para implementação imediata:
+
+* 🛡️ **GNVision:** Inteligência em monitoramento e segurança híbrida.
+* 🌐 **MegaWeb:** O motor definitivo para E-commerce SaaS.
+* ⚙️ **Custom ERPs:** Softwares sob medida desenvolvidos em Delphi e PHP.
+
+<div align="center">
+  <br>
   <a href="https://gnsolucoesinfo.com/nossos-projetos" target="_blank">
-    <img src="https://img.shields.io/badge/CONHEÇA_TODOS_OS_PROJETOS-0E75B6?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO_COMPLETO-0E75B6?style=for-the-badge&logo=target&logoColor=white" height="40"/>
   </a>
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológica & Especialidades
-
-### 🖥️ Desenvolvimento de Software
-| Linguagens | Frameworks/Web | Mobile |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Delphi-D31027?style=flat-square&logo=embarcadero&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | `React Native` (Estudando) |
-
-### 🌐 Infraestrutura & Hardware (Técnico Nível V)
-* **Redes:** `Mikrotik (MTCNA)` | `Ubiquiti UniFi` | `VPN (OpenVPN/Wireguard)` | `VLANs`.
-* **Servidores:** `Windows Server (AD/DNS/GPO)` | `Linux (Debian/Ubuntu/CentOS)` | `Docker`.
-* **Hardware:** `Manutenção de Servidores` | `Storage & Backup (Veeam/Rsync)` | `Redes Estruturadas`.
-* **Bancos de Dados:** <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebird-FF7A00?style=flat-square&logo=firebird&logoColor=white"/>
+## 📈 Estatísticas de Engenharia
+<div align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gnsolucoesinfo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnsolucoesinfo&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
-
-## ⚙️ Diferenciais & Qualidade
-* ✅ **Clean Code:** Foco em manutenção e escalabilidade.
-* 🛡️ **Cyber Security:** Implementação de firewalls e boas práticas de segurança.
-* 📊 **Business Intelligence:** Integração de sistemas com relatórios precisos.
-
----
-
-## 📫 Vamos conversar sobre seu projeto?
-Atendimento especializado em Laguna e região de Tubarão/SC para empresas de todos os portes.
 
 <div align="center">
   <br>
-  <a href="https://gnsolucoesinfo.com" target="_blank">
-    <img src="https://img.shields.io/badge/GN_Soluções_Tecnologia-0E75B6?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnsolucoesinfo&theme=tokyonight" />
   <br>
-  <sub>Laguna - SC | Soluções de Ponta</sub>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=gnsolucoesinfo&label=Acessos&color=0e75b6&style=flat-square" />
+  <p><b>📍 Laguna - SC | Tubarão - SC | Atendimento Brasil</b></p>
+  <a href="https://gnsolucoesinfo.com">gnsolucoesinfo.com</a> | gnsolucoes.info@gmail.com
+  <br><br>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0e75b6&height=30&section=footer" width="100%"/>
 </div>
